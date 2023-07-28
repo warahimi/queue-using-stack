@@ -1,0 +1,15 @@
+C:\Users\wahid\Desktop\New folder (3)\queue-using-stack\QueueUsingStack\QueueUsingStack\bin\Debug\net6.0\QueueUsingStack.exe
+C:\Users\wahid\Desktop\New folder (3)\queue-using-stack\QueueUsingStack\QueueUsingStack\bin\Debug\net6.0\QueueUsingStack.deps.json
+C:\Users\wahid\Desktop\New folder (3)\queue-using-stack\QueueUsingStack\QueueUsingStack\bin\Debug\net6.0\QueueUsingStack.runtimeconfig.json
+C:\Users\wahid\Desktop\New folder (3)\queue-using-stack\QueueUsingStack\QueueUsingStack\bin\Debug\net6.0\QueueUsingStack.dll
+C:\Users\wahid\Desktop\New folder (3)\queue-using-stack\QueueUsingStack\QueueUsingStack\bin\Debug\net6.0\QueueUsingStack.pdb
+C:\Users\wahid\Desktop\New folder (3)\queue-using-stack\QueueUsingStack\QueueUsingStack\obj\Debug\net6.0\QueueUsingStack.csproj.AssemblyReference.cache
+C:\Users\wahid\Desktop\New folder (3)\queue-using-stack\QueueUsingStack\QueueUsingStack\obj\Debug\net6.0\QueueUsingStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wahid\Desktop\New folder (3)\queue-using-stack\QueueUsingStack\QueueUsingStack\obj\Debug\net6.0\QueueUsingStack.AssemblyInfoInputs.cache
+C:\Users\wahid\Desktop\New folder (3)\queue-using-stack\QueueUsingStack\QueueUsingStack\obj\Debug\net6.0\QueueUsingStack.AssemblyInfo.cs
+C:\Users\wahid\Desktop\New folder (3)\queue-using-stack\QueueUsingStack\QueueUsingStack\obj\Debug\net6.0\QueueUsingStack.csproj.CoreCompileInputs.cache
+C:\Users\wahid\Desktop\New folder (3)\queue-using-stack\QueueUsingStack\QueueUsingStack\obj\Debug\net6.0\QueueUsingStack.dll
+C:\Users\wahid\Desktop\New folder (3)\queue-using-stack\QueueUsingStack\QueueUsingStack\obj\Debug\net6.0\refint\QueueUsingStack.dll
+C:\Users\wahid\Desktop\New folder (3)\queue-using-stack\QueueUsingStack\QueueUsingStack\obj\Debug\net6.0\QueueUsingStack.pdb
+C:\Users\wahid\Desktop\New folder (3)\queue-using-stack\QueueUsingStack\QueueUsingStack\obj\Debug\net6.0\QueueUsingStack.genruntimeconfig.cache
+C:\Users\wahid\Desktop\New folder (3)\queue-using-stack\QueueUsingStack\QueueUsingStack\obj\Debug\net6.0\ref\QueueUsingStack.dll
